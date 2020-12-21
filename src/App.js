@@ -11,6 +11,8 @@ function Food({ name, picture, rating }) {
   )
 }
 
+
+
 Food.propTypes = {
   name: PropTypes.string.isRequired,
   picture: PropTypes.string.isRequired,
