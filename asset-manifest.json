@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/luceverus/movie_app.git/static/css/main.29651685.chunk.css",
-    "main.js": "/luceverus/movie_app.git/static/js/main.8176a1d8.chunk.js",
-    "main.js.map": "/luceverus/movie_app.git/static/js/main.8176a1d8.chunk.js.map",
-    "runtime-main.js": "/luceverus/movie_app.git/static/js/runtime-main.0d7c3d0e.js",
-    "runtime-main.js.map": "/luceverus/movie_app.git/static/js/runtime-main.0d7c3d0e.js.map",
-    "static/js/2.8c5b9411.chunk.js": "/luceverus/movie_app.git/static/js/2.8c5b9411.chunk.js",
-    "static/js/2.8c5b9411.chunk.js.map": "/luceverus/movie_app.git/static/js/2.8c5b9411.chunk.js.map",
-    "index.html": "/luceverus/movie_app.git/index.html",
-    "static/css/main.29651685.chunk.css.map": "/luceverus/movie_app.git/static/css/main.29651685.chunk.css.map",
-    "static/js/2.8c5b9411.chunk.js.LICENSE.txt": "/luceverus/movie_app.git/static/js/2.8c5b9411.chunk.js.LICENSE.txt"
+    "main.css": "/luceverus/movie_app/static/css/main.29651685.chunk.css",
+    "main.js": "/luceverus/movie_app/static/js/main.8176a1d8.chunk.js",
+    "main.js.map": "/luceverus/movie_app/static/js/main.8176a1d8.chunk.js.map",
+    "runtime-main.js": "/luceverus/movie_app/static/js/runtime-main.2dc7433e.js",
+    "runtime-main.js.map": "/luceverus/movie_app/static/js/runtime-main.2dc7433e.js.map",
+    "static/js/2.8c5b9411.chunk.js": "/luceverus/movie_app/static/js/2.8c5b9411.chunk.js",
+    "static/js/2.8c5b9411.chunk.js.map": "/luceverus/movie_app/static/js/2.8c5b9411.chunk.js.map",
+    "index.html": "/luceverus/movie_app/index.html",
+    "static/css/main.29651685.chunk.css.map": "/luceverus/movie_app/static/css/main.29651685.chunk.css.map",
+    "static/js/2.8c5b9411.chunk.js.LICENSE.txt": "/luceverus/movie_app/static/js/2.8c5b9411.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d7c3d0e.js",
+    "static/js/runtime-main.2dc7433e.js",
     "static/js/2.8c5b9411.chunk.js",
     "static/css/main.29651685.chunk.css",
     "static/js/main.8176a1d8.chunk.js"
